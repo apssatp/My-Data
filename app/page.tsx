@@ -7,9 +7,9 @@ import { FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa";
 const links = [
   { name: "My Portfolio", url: "https://haricharan.dpdns.org", icon: <Globe size={20} /> },
   { name: "GitHub", url: "https://github.com/tab-try", icon: <FaGithub size={20} /> },
-  { name: "LinkedIn", url: "https://linkedin.com", icon: <FaLinkedin size={20} /> },
-  { name: "Twitter / X", url: "https://twitter.com", icon: <FaTwitter size={20} /> },
-  { name: "Contact Me", url: "mailto:tab386339@gmail.com", icon: <Mail size={20} /> },
+  { name: "RATIONALIZATION", url: "https://apssatp.github.io/CPM/", icon: <FaLinkedin size={20} /> },
+  { name: "STMS", url: "https://apssatp.github.io/MBMB-IDs/", icon: <FaTwitter size={20} /> },
+  { name: "estimator", url: "https://apssatp.github.io/mps/", icon: <Mail size={20} /> },
 ];
 
 export default function Home() {
