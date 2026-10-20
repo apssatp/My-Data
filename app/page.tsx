@@ -49,8 +49,8 @@ export default function Home() {
           />
         </motion.div>
 
-        <h1 className="text-3xl font-bold text-white mb-2 tracking-tight">Your Name</h1>
-        <p className="text-gray-400 mb-8 font-medium">Software Engineer & Designer</p>
+        <h1 className="text-3xl font-bold text-white mb-2 tracking-tight">J Narayana Swamy</h1>
+        <p className="text-gray-400 mb-8 font-medium">APO,APSS,Anantapur</p>
 
         <motion.div 
           className="w-full flex flex-col gap-4"
