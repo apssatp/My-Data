@@ -5,11 +5,9 @@ import { Globe, Mail } from "lucide-react";
 import { FaGithub, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const links = [
-  { name: "My Portfolio", url: "https://haricharan.dpdns.org", icon: <Globe size={20} /> },
-  { name: "GitHub", url: "https://github.com/tab-try", icon: <FaGithub size={20} /> },
-  { name: "RATIONALIZATION", url: "https://apssatp.github.io/CPM/", icon: <FaLinkedin size={20} /> },
-  { name: "STMS", url: "https://apssatp.github.io/MBMB-IDs/", icon: <FaTwitter size={20} /> },
-  { name: "estimator", url: "https://apssatp.github.io/mps/", icon: <Mail size={20} /> },
+  { name: "School Safety", url: "https://apssatp.github.io/School-Safety/", icon: <Globe size={20} /> },
+  { name: "MBMB On Going Works", url: "https://apssatp.github.io/MBMB-Phase-2/", icon: <Globe size={20} /> },
+  { name: "MBMB Unspent Balance", url: "https://apssatp.github.io/MBMB-unspent-Sep-2026/", icon: <Globe size={20} /> },
 ];
 
 export default function Home() {
