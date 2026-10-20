@@ -8,6 +8,7 @@ const links = [
   { name: "School Safety", url: "https://apssatp.github.io/School-Safety/", icon: <Globe size={20} /> },
   { name: "MBMB On Going Works", url: "https://apssatp.github.io/MBMB-Phase-2/", icon: <Globe size={20} /> },
   { name: "MBMB Unspent Balance", url: "https://apssatp.github.io/MBMB-unspent-Sep-2026/", icon: <Globe size={20} /> },
+  { name: "RO Functioning Status", url: "https://apssatp.github.io/RO-Functioning-Status/", icon: <Globe size={20} /> },
 ];
 
 export default function Home() {
